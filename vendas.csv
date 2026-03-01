@@ -1,0 +1,201 @@
+id_venda,vendedor,cliente,item_vendido,valor_venda,comissao_individual
+1,Carlos,Kennedy-Obrien,Probably,4003.06,120.09
+2,Carlos,Morales LLC,Above,3686.77,110.6
+3,Ana,Schultz Group,Mind,3024.57,90.74
+4,Bruno,Harrington and Sons,Talk,864.37,25.93
+5,Carlos,Peterson LLC,Fight,2350.32,70.51
+6,Ana,Taylor-Wood,Much,3045.46,91.36
+7,Daniela,Sanders-Munoz,Shoulder,3289.35,98.68
+8,Ana,Robertson and Sons,Try,4852.56,145.58
+9,Daniela,Cherry-Griffith,Head,4698.91,140.97
+10,Bruno,Green Ltd,Subject,990.94,29.73
+11,Ana,Gallegos Inc,Newspaper,3125.66,93.77
+12,Bruno,"Porter, Torres and Stevenson",Fill,2671.31,80.14
+13,Daniela,Jackson-Williams,Set,213.01,6.39
+14,Carlos,Russell-Mitchell,True,3098.08,92.94
+15,Bruno,"Brandt, Jenkins and Odonnell",Sure,328.66,9.86
+16,Daniela,Jackson-Sanford,Alone,1895.17,56.86
+17,Bruno,Myers Inc,However,543.97,16.32
+18,Bruno,Harvey PLC,Different,1078.4,32.35
+19,Carlos,"Allen, Sanchez and Smith",South,4917.83,147.53
+20,Ana,Hernandez-Miller,She,327.61,9.83
+21,Carlos,Johnson PLC,Star,3433.51,103.01
+22,Ana,Goodwin-Johnson,Material,418.75,12.56
+23,Daniela,"Gutierrez, May and Rodriguez",Alone,4716.79,141.5
+24,Bruno,Haas-Hobbs,Such,4061.15,121.83
+25,Ana,"Mathews, Moore and Rodriguez",Clear,178.23,5.35
+26,Bruno,Ellis and Sons,Decide,3452.74,103.58
+27,Carlos,Gates-Marquez,Inside,3447.99,103.44
+28,Daniela,"Proctor, Bernard and Vazquez",Organization,2526.37,75.79
+29,Carlos,"Doyle, Robertson and Gardner",Professional,949.49,28.48
+30,Ana,Cunningham-Oconnell,Station,1368.02,41.04
+31,Daniela,Stark and Sons,Population,3801.27,114.04
+32,Bruno,Armstrong Ltd,Prevent,2648.33,79.45
+33,Bruno,"Jenkins, Hampton and Ferguson",Age,2881.73,86.45
+34,Ana,Lawrence-Taylor,Knowledge,4850.96,145.53
+35,Bruno,Coleman-Henry,Fine,2303.8,69.11
+36,Bruno,"Cortez, Roberson and Crane",Which,4484.65,134.54
+37,Bruno,Price-Green,Spring,3663.63,109.91
+38,Carlos,Bell and Sons,Same,533.61,16.01
+39,Carlos,Nguyen PLC,These,2652.09,79.56
+40,Bruno,"Wright, Davila and Long",Management,1694.12,50.82
+41,Daniela,Diaz-Green,Human,3761.87,112.86
+42,Carlos,Navarro-Stevens,Party,4160.81,124.82
+43,Bruno,Pruitt PLC,Computer,4829.75,144.89
+44,Daniela,"Clark, Hall and Santiago",Must,2759.21,82.78
+45,Ana,George Inc,For,1551.74,46.55
+46,Ana,Navarro and Sons,Senior,465.3,13.96
+47,Carlos,Robinson-Williams,Better,2174.67,65.24
+48,Ana,Davis PLC,Pretty,1073.71,32.21
+49,Daniela,Jones-Stevenson,Degree,168.99,5.07
+50,Carlos,"Miller, Kirk and Brooks",Hand,3563.6,106.91
+51,Carlos,Williamson and Sons,Ball,3971.86,119.16
+52,Carlos,Hernandez Group,Discussion,462.82,13.88
+53,Carlos,Gates Ltd,Pattern,3290.28,98.71
+54,Daniela,Perez Ltd,Now,4329.21,129.88
+55,Daniela,"Gonzalez, Scott and Anderson",Scientist,2302.31,69.07
+56,Ana,"Roth, Bright and Roberts",Anything,411.44,12.34
+57,Carlos,"Reed, Rich and Berry",Thus,3377.32,101.32
+58,Ana,Sullivan-Finley,Nation,3675.07,110.25
+59,Daniela,Scott-Bowman,Different,1446.14,43.38
+60,Carlos,Marshall-Davis,Learn,2413.85,72.42
+61,Ana,"English, Jacobson and Hood",Light,4861.39,145.84
+62,Carlos,"Mann, Campbell and Martin",Down,3827.85,114.84
+63,Bruno,Parker Ltd,Best,1256.33,37.69
+64,Bruno,Hicks Ltd,Organization,2519.6,75.59
+65,Ana,Kirby LLC,Never,3582.25,107.47
+66,Bruno,"Baldwin, Lee and Garcia",President,224.55,6.74
+67,Ana,Williams PLC,Design,1088.42,32.65
+68,Daniela,Fox-Thompson,Letter,3218.41,96.55
+69,Daniela,"Solis, Ballard and Sullivan",Second,2860.05,85.8
+70,Daniela,Rogers-Gonzalez,Offer,4547.08,136.41
+71,Carlos,Herman PLC,Pressure,3061.65,91.85
+72,Carlos,Salazar-Garza,Activity,3802.2,114.07
+73,Daniela,"Harris, Cannon and Aguilar",Meet,4719.98,141.6
+74,Carlos,Wood-Bradley,Manager,1519.78,45.59
+75,Bruno,"Dominguez, Henry and Jimenez",Personal,4414.29,132.43
+76,Bruno,Frazier Inc,And,4059.79,121.79
+77,Ana,"Hernandez, Melton and Baker",Manager,616.92,18.51
+78,Daniela,Lewis-King,Congress,4037.99,121.14
+79,Daniela,"Potts, Odom and Franklin",Son,2140.9,64.23
+80,Bruno,Lane-Smith,Phone,2742.78,82.28
+81,Bruno,Webb PLC,Name,698.23,20.95
+82,Ana,"Ramos, Taylor and Roach",Culture,1658.22,49.75
+83,Ana,"Flores, Cannon and Smith",Magazine,1433.45,43.0
+84,Carlos,"Gray, Turner and Ramirez",After,2192.83,65.78
+85,Daniela,"Evans, Scott and Harper",Free,1827.59,54.83
+86,Carlos,"Pittman, Price and Burke",Indeed,134.07,4.02
+87,Daniela,Lawson-Dickerson,House,2717.04,81.51
+88,Bruno,"Jones, Dillon and Black",Against,1188.33,35.65
+89,Carlos,Patton Ltd,Offer,1420.12,42.6
+90,Daniela,Cortez LLC,Upon,4720.26,141.61
+91,Bruno,Lee-Nelson,Customer,1171.94,35.16
+92,Daniela,"Brown, Jennings and Stafford",Side,3544.79,106.34
+93,Ana,Manning-Ward,Something,417.97,12.54
+94,Bruno,"Davis, Fields and Smith",Director,4815.99,144.48
+95,Bruno,"Williams, Wilson and Morgan",Might,3511.89,105.36
+96,Carlos,"Lindsey, Holt and Gonzalez",Loss,1574.3,47.23
+97,Ana,Williams-Bowen,Force,4988.93,149.67
+98,Carlos,"Miller, Miller and Willis",Phone,3086.87,92.61
+99,Bruno,"Cook, Rivers and Anderson",Above,2114.08,63.42
+100,Carlos,"Jackson, Hansen and Klein",Task,1465.37,43.96
+101,Ana,"Lyons, Barajas and Kaufman",Strong,3208.32,96.25
+102,Bruno,Smith-Ross,Station,809.98,24.3
+103,Daniela,Hogan Inc,Over,2294.14,68.82
+104,Bruno,Moses LLC,Respond,1286.07,38.58
+105,Daniela,Dunn-Scott,Exactly,496.18,14.89
+106,Daniela,"Wallace, Anderson and Collins",Public,1264.42,37.93
+107,Carlos,Blair-Hernandez,Land,4035.38,121.06
+108,Ana,"Wells, Smith and Stein",Around,3198.3,95.95
+109,Bruno,"Williams, James and Santos",Late,2054.24,61.63
+110,Carlos,Porter-Wilson,Possible,542.42,16.27
+111,Ana,Gonzales LLC,Military,838.52,25.16
+112,Carlos,Williams PLC,Issue,1013.94,30.42
+113,Ana,"Webb, Weaver and Martinez",Worry,4305.96,129.18
+114,Daniela,"Pierce, Thornton and Erickson",Treat,3420.07,102.6
+115,Carlos,Cooper-Baker,On,3584.63,107.54
+116,Carlos,"Johnson, Vasquez and Brown",Top,1209.83,36.29
+117,Daniela,Pugh PLC,Mrs,571.27,17.14
+118,Ana,"Goodman, Patterson and Nichols",Treatment,3485.59,104.57
+119,Daniela,Dixon-Turner,Expect,2636.98,79.11
+120,Daniela,Dickerson PLC,Trouble,773.85,23.22
+121,Daniela,Stewart-Moore,Agreement,3702.56,111.08
+122,Bruno,"Campbell, Chavez and Walker",Win,4631.0,138.93
+123,Bruno,Lee Inc,Another,3509.34,105.28
+124,Carlos,Williams-Fowler,Whole,3333.92,100.02
+125,Bruno,Kane-Cox,Every,4912.62,147.38
+126,Daniela,Matthews-Reynolds,Risk,2695.29,80.86
+127,Bruno,"Edwards, Kennedy and Caldwell",Some,4981.64,149.45
+128,Bruno,Scott-Walker,Day,4496.36,134.89
+129,Ana,Bender-Reeves,Anyone,4424.92,132.75
+130,Carlos,Carlson Inc,American,1761.25,52.84
+131,Carlos,Mitchell-Clay,Sound,3531.75,105.95
+132,Daniela,Wilson-Byrd,Rather,4495.84,134.88
+133,Daniela,Hicks PLC,Research,2082.09,62.46
+134,Ana,Mills PLC,Tree,3245.96,97.38
+135,Carlos,Keith LLC,Task,4684.61,140.54
+136,Daniela,"Franco, Castro and Lopez",Fish,4502.92,135.09
+137,Daniela,"Burton, Parrish and Mcintosh",Identify,2945.36,88.36
+138,Daniela,Gutierrez-Williams,Clear,597.21,17.92
+139,Carlos,"Long, Bryant and Walker",Art,4870.95,146.13
+140,Bruno,Barrera PLC,Parent,887.96,26.64
+141,Bruno,Ward-Miller,Simple,2479.51,74.39
+142,Carlos,"Alexander, King and Newman",Material,3294.61,98.84
+143,Ana,Williams-Harris,Guy,962.03,28.86
+144,Daniela,Nelson-Gordon,Behind,1262.52,37.88
+145,Ana,Williams Ltd,Never,976.23,29.29
+146,Daniela,Ayala-Young,Culture,3283.2,98.5
+147,Carlos,Sanchez-Bridges,Scientist,3632.61,108.98
+148,Daniela,Castro-Mendez,Manage,2884.71,86.54
+149,Daniela,Rose LLC,Nice,2593.19,77.8
+150,Bruno,Woods-Sherman,Of,1399.49,41.98
+151,Bruno,"Jones, Cole and Ramirez",Traditional,2990.37,89.71
+152,Bruno,Stewart-Cooper,Join,2026.18,60.79
+153,Bruno,"Black, Spencer and Payne",Debate,4539.88,136.2
+154,Carlos,Huffman-Prince,General,3994.58,119.84
+155,Bruno,Sanchez-Allen,Majority,3261.01,97.83
+156,Carlos,Pitts-Mayer,Bed,2513.34,75.4
+157,Ana,Young-Duncan,Tough,1227.91,36.84
+158,Daniela,Jordan Inc,Speak,1475.78,44.27
+159,Carlos,Ward Ltd,Those,3865.91,115.98
+160,Daniela,Kidd-Wiggins,Minute,967.84,29.04
+161,Daniela,Rodriguez and Sons,Expert,2402.73,72.08
+162,Bruno,Jimenez Inc,Prove,4582.84,137.49
+163,Carlos,"Franklin, Jones and Jones",Show,3763.82,112.91
+164,Ana,"Simpson, Bowman and Carter",By,4648.76,139.46
+165,Ana,"Keller, Miller and Garner",Song,2808.55,84.26
+166,Carlos,Morgan-Carlson,Property,4821.74,144.65
+167,Ana,"Walker, Mills and Calhoun",Agent,469.2,14.08
+168,Ana,"Carter, Dominguez and Thompson",Whether,1986.98,59.61
+169,Carlos,"Grant, Ferguson and Oconnor",Create,1415.53,42.47
+170,Carlos,Price Group,Partner,930.51,27.92
+171,Ana,Hammond Ltd,Growth,2033.99,61.02
+172,Bruno,"Gomez, Johnson and Norman",Draw,3510.55,105.32
+173,Daniela,Campbell Inc,Girl,445.04,13.35
+174,Bruno,King-Hooper,Assume,3113.54,93.41
+175,Bruno,Todd Group,Set,1857.37,55.72
+176,Carlos,Campos and Sons,Mind,2639.82,79.19
+177,Bruno,"Jackson, Sanchez and Kim",Effect,1680.5,50.41
+178,Daniela,Garcia-Holland,Common,3515.38,105.46
+179,Carlos,Wilson-Shields,Book,3573.66,107.21
+180,Carlos,"Lopez, Padilla and Savage",Spring,1538.6,46.16
+181,Carlos,"Cline, Bryant and Ramirez",Final,2156.93,64.71
+182,Bruno,Soto-Johnson,Ready,4348.65,130.46
+183,Ana,"Delgado, Smith and Johnson",Allow,499.81,14.99
+184,Carlos,Vasquez LLC,Get,2557.43,76.72
+185,Ana,Lopez-Davis,Write,1051.94,31.56
+186,Daniela,Chase Ltd,We,3539.64,106.19
+187,Daniela,Thompson-Soto,Finish,348.77,10.46
+188,Carlos,Trujillo-Brooks,Always,1756.18,52.69
+189,Daniela,"Lee, Jones and Kent",Employee,2936.44,88.09
+190,Daniela,Maxwell-Wells,Instead,2933.57,88.01
+191,Bruno,Cardenas and Sons,It,1707.95,51.24
+192,Bruno,"Burns, Robinson and Butler",Way,2758.96,82.77
+193,Ana,Parks Group,President,4210.77,126.32
+194,Bruno,Castaneda-Nash,Class,249.45,7.48
+195,Daniela,"Murphy, Griffin and Jones",Indicate,290.29,8.71
+196,Carlos,"White, Valenzuela and Smith",Ever,1864.93,55.95
+197,Daniela,Torres-West,Feel,1700.59,51.02
+198,Daniela,Hendricks PLC,Far,3872.97,116.19
+199,Daniela,Page Inc,Hour,4829.73,144.89
+200,Carlos,Martinez-Graham,Benefit,518.2,15.55
